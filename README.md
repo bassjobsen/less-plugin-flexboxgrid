@@ -7,7 +7,7 @@ Imports the Less code for the [Flexbox Grid](http://flexboxgrid.com/) System bef
 
 Install..
 
-Notice require Less v3.2.1 (download from github)
+Requires Less v2.4.0
 
 ```
 npm install -g less-plugin-flexboxgrid
